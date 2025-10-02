@@ -1,9 +1,9 @@
-name: Deploy Astro to GitHub Pages
+name: Deploy AstroLinkHub to GitHub Pages
 
 on:
   push:
     branches:
-      - main  # Branch que vai disparar o deploy
+      - main  # Dispara o deploy sempre que houver push na branch main
 
 jobs:
   build-deploy:
@@ -14,11 +14,12 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      # 2. Configurar Node.js
+      # 2. Configurar Node.js com cache de npm
       - name: Setup Node.js
         uses: actions/setup-node@v3
         with:
-          node-version: 20 # ou a versão que você usa
+          node-version: 20
+          cache: 'npm'
 
       # 3. Instalar dependências
       - name: Install dependencies
