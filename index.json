@@ -6,10 +6,10 @@
     "favicon": "favicon.ico",
     "ogType": "website",
     "ogSiteName": "RodrigoRodrigues",
-    "ogTitle": "",
-    "ogDescription": "",
-    "ogUrl": "https://astrolinkhub.netlify.app",
-    "ogImage": "https://astrolinkhub.netlify.app/og-img.jpg"
+    "ogTitle": "Portifolio de Rodrigo Rodrigues",
+    "ogDescription": "Olá, me siga em outras redes sociais",
+    "ogUrl": "https://rodrigorrd-dev.github.io/AstroLinkHub/",
+    "ogImage": "https://rodrigorrd-dev.github.io/AstroLinkHub//og-img.jpg"
   },
   "background": {
     "firstColor": "#0085a2",
