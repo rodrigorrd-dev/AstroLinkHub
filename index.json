@@ -16,7 +16,7 @@
     "secondColor": "#5cc1d7"
   },
   "header": {
-    "image": "/profile.jpeg",
+    "image": "/profile.webp",
     "alt": "O proprietário deste site.",
     "title": "Rodrigo Rodrigues",
     "description": "Pleno FullStack Java",
