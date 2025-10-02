@@ -3,7 +3,7 @@
     "lang": "pt",
     "title": "Rodrigo Rodrigues",
     "description": "Mais sobre mim",
-    "favicon": "/favicon.ico",
+    "favicon": "favicon.ico",
     "ogType": "website",
     "ogSiteName": "RodrigoRodrigues",
     "ogTitle": "",
@@ -16,7 +16,7 @@
     "secondColor": "#5cc1d7"
   },
   "header": {
-    "image": "/profile.webp",
+    "image": "profile.webp",
     "alt": "O proprietário deste site.",
     "title": "Rodrigo Rodrigues",
     "description": "Pleno FullStack Java",
