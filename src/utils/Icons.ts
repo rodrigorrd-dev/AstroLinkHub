@@ -1,4 +1,3 @@
-import AstroLogo from "@/icons/Astro.astro";
 import Discord from "@/icons/Discord.astro";
 import Facebook from "@/icons/Facebook.astro";
 import GitHub from "@/icons/GitHub.astro";
@@ -15,9 +14,12 @@ import Twitch from "@/icons/Twitch.astro";
 import WhatsApp from "@/icons/WhatsApp.astro";
 import X from "@/icons/X.astro";
 import YouTube from "@/icons/YouTube.astro";
+import Pessoa from "@/icons/Pessoa.astro";
+import Rodrigo from "@/icons/Rodrigo.astro";
 
 const SOCIAL_ICONS: Record<string, any> = {
-  AstroLogo,
+  Rodrigo,
+  Pessoa,
   Discord,
   Facebook,
   GitHub,

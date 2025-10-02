@@ -1,59 +1,54 @@
 {
   "html": {
-    "lang": "en",
-    "title": "Marcos Carrasco",
-    "description": "Follow me on all my socials",
-    "favicon": "/favicon.svg",
+    "lang": "pt",
+    "title": "Rodrigo Rodrigues",
+    "description": "Mais sobre mim",
+    "favicon": "/favicon.ico",
     "ogType": "website",
-    "ogSiteName": "MarcosKlender",
-    "ogTitle": "AstroLinkHub by MarcosKlender",
-    "ogDescription": "Open source links page, customizable via JSON. Made with Astro!",
+    "ogSiteName": "RodrigoRodrigues",
+    "ogTitle": "",
+    "ogDescription": "",
     "ogUrl": "https://astrolinkhub.netlify.app",
     "ogImage": "https://astrolinkhub.netlify.app/og-img.jpg"
   },
   "background": {
-    "firstColor": "#454281",
-    "secondColor": "#B38AC2"
+    "firstColor": "#0085a2",
+    "secondColor": "#5cc1d7"
   },
   "header": {
     "image": "/profile.webp",
-    "alt": "The owner of this website.",
-    "title": "Marcos Carrasco",
-    "description": "Senior Frontend Developer",
+    "alt": "O proprietário deste site.",
+    "title": "Rodrigo Rodrigues",
+    "description": "Pleno FullStack Java",
     "textColor": "white"
   },
   "socials": [
     {
       "network": "GitHub",
-      "username": "marcosklender",
-      "url": "https://github.com/marcosklender"
+      "username": "rodrigorodrigues",
+      "url": "https://github.com/rodrigorrd-dev"
     },
     {
       "network": "LinkedIn",
-      "username": "marcosklender",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US"
-    },
-    {
-      "network": "Instagram",
-      "username": "marcosklender",
-      "url": "https://www.instagram.com/marcosklender"
+      "username": "rodrigorodrigues",
+      "url": "https://www.linkedin.com/in/rodrigo-rr-dutra"
     },
     {
       "network": "Mail",
-      "username": "marcosklender",
-      "url": "mailto:marcosklender@gmail.com"
+      "username": "rodrigorodrigues",
+      "url": "mailto:rodrigo.rr.dutra@protonmail.com"
     },
     {
-      "network": "AstroLogo",
-      "username": "Astro Themes",
-      "url": "https://astro.build/themes/author/1479"
+      "network": "Rodrigo",
+      "username": "Meu portfólio",
+      "url": "https://v0-portfolio-website-xi-lilac.vercel.app"
     }
   ],
   "featured": [
     {
       "network": "GitHub",
-      "url": "https://github.com/MarcosKlender/AstroLinkHub",
-      "title": "Use this template and star it (:",
+      "url": "https://github.com/rodrigorrd-dev",
+      "title": "Meu Perfil GitHub",
       "textColor": "#FFF",
       "backgroundImage": "https://githubuniverse.com/og-image-24.jpg",
       "backgroundColor": null,
@@ -63,39 +58,39 @@
   "buttons": [
     {
       "network": "LinkedIn",
-      "url": "https://www.linkedin.com/in/marcosklender/?locale=en_US",
-      "title": "Let's connect on LinkedIn",
+      "url": "https://www.linkedin.com/in/rodrigo-rr-dutra/",
+      "title": "Me siga no Linkedin",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     },
     {
-      "network": "Instagram",
-      "url": "https://www.instagram.com/marcosklender",
-      "title": "Follow me on Instagram",
+      "network": "Rodrigo",
+      "url": "https://v0-portfolio-website-xi-lilac.vercel.app",
+      "title": "Visite meu blog",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     },
     {
-      "network": "Mail",
-      "url": "mailto:marcosklender@gmail.com",
-      "title": "Contact me anytime",
+      "network": "Pessoa",
+      "url": "https://v0-portfolio-website-xi-lilac.vercel.app#about",
+      "title": "Mais sobre mim",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     },
     {
-      "network": "AstroLogo",
-      "url": "https://astro.build/themes/author/1479",
-      "title": "See more Astro Themes",
+      "network": "Link",
+      "url": "https://v0-portfolio-website-xi-lilac.vercel.app/#contact",
+      "title": "Entre em contato",
       "textColor": "#FFF",
       "backgroundColor": "#000",
       "borderRadius": ".75rem"
     }
   ],
   "footer": {
-    "copyright": "Made by MarcosKlender",
-    "url": "https://marcosklender.com"
+    "copyright": "",
+    "url": ""
   }
 }
